@@ -1,0 +1,1 @@
+{"rustc":12799628686721755460,"features":"[]","target":4759061394898728881,"profile":3139622862949604553,"path":1036222786711178230,"deps":[["rand v0.3.22","rand",5990854985273141486],["rand v0.3.22","rand",8351027832341678437]],"local":[{"Precalculated":"1538846448.063330848s (/Users/jiaying/Documents/Git/Rust/gussing_game/src/main.rs)"}],"rustflags":[],"edition":"Edition2015"}

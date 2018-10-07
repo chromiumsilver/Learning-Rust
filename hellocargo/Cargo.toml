@@ -1,0 +1,6 @@
+[package]
+name = "hellocargo"
+version = "0.1.0"
+authors = ["chromiumsilver <jiaying_yao@berkeley.edu>"]
+
+[dependencies]
